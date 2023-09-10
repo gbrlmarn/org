@@ -1,4 +1,1 @@
-:PROPERTIES:
-:TITLE: My Org files
-
 * This repo contains my org files...
