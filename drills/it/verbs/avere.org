@@ -1,0 +1,256 @@
+* Avere
+:PROPERTIES:
+:DRILL_HEADING: Guess
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word.
+:END:
+|---------------+-------------------+------------------|
+| Rumeno        | Italiano          | Temp             |
+|---------------+-------------------+------------------|
+| eu am         | io ho             | Presente         |
+| tu ai         | tu hai            | Presente         |
+| ea/el au      | lei/lui ha        | Presente         |
+| noi avem      | noi abbiamo       | Presente         |
+| voi aveti     | voi avete         | Presente         |
+| ei au         | loro hanno        | Presente         |
+|---------------+-------------------+------------------|
+| eu am avut    | io ho avuto       | Passato prossimo |
+| tu ai avut    | tu hai avuto      | Passato prossimo |
+| ea/el au avut | lei/lui ha avuto  | Passato prossimo |
+| noi am avut   | noi abbiamo avuto | Passato prossmio |
+| voi ati avut  | voi avete avuto   | Passato prossimo |
+| ei au avut    | loro hanno avuto  | Passato prossimo |
+|---------------+-------------------+------------------|
+| eu aveam      | io avevo          | Imperfetto       |
+| tu aveai      | tu avevi          | Imperfetto       |
+| ea/el aveau   | lei/lui aveva     | Imperfetto       |
+| noi aveam     | noi avevamo       | Imperfetto       |
+| voi aveati    | voi avevate       | Imperfetto       |
+| ei aveau      | loro avevano      | Imperfetto       |
+|---------------+-------------------+------------------|
+** Cards                                                           :noexport:
+*** eu am                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       BD58011D-575C-4165-99D4-B6F4E524BA03
+:END:
+Translate the following word.
+**** Rumeno
+eu am
+**** Italiano
+io ho
+**** Temp
+Presente
+*** tu ai                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       D5886BD5-F053-42AA-8996-6442A9B0BB42
+:END:
+Translate the following word.
+**** Rumeno
+tu ai
+**** Italiano
+tu hai
+**** Temp
+Presente
+*** ea/el au                                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       361E9F84-0719-4218-B327-33E63C7BE04B
+:END:
+Translate the following word.
+**** Rumeno
+ea/el au
+**** Italiano
+lei/lui ha
+**** Temp
+Presente
+*** noi avem                                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       8132E57D-349B-4C69-854C-8C83A832942F
+:END:
+Translate the following word.
+**** Rumeno
+noi avem
+**** Italiano
+noi abbiamo
+**** Temp
+Presente
+*** voi aveti                                                         :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       FAFD79F4-8942-464B-AF40-D276597720FE
+:END:
+Translate the following word.
+**** Rumeno
+voi aveti
+**** Italiano
+voi avete
+**** Temp
+Presente
+*** ei au                                                             :drill:
+SCHEDULED: <2023-09-14 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       8017D954-3B83-4AFF-B4B8-E26773EDEBB2
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-09-10 Sun 23:%]
+:END:
+Translate the following word.
+**** Rumeno
+ei au
+**** Italiano
+loro hanno
+**** Temp
+Presente
+*** eu am avut                                                        :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       1E2F52F9-1286-4D05-8548-5407E661270F
+:END:
+Translate the following word.
+**** Rumeno
+eu am avut
+**** Italiano
+io ho avuto
+**** Temp
+Passato prossimo
+*** tu ai avut                                                        :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       B14BD421-B991-40A8-9E12-8F334AF4E994
+:END:
+Translate the following word.
+**** Rumeno
+tu ai avut
+**** Italiano
+tu hai avuto
+**** Temp
+Passato prossimo
+*** ea/el au avut                                                     :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       D550DCE4-511D-47FE-AD0F-D07AB7B84879
+:END:
+Translate the following word.
+**** Rumeno
+ea/el au avut
+**** Italiano
+lei/lui ha avuto
+**** Temp
+Passato prossimo
+*** noi am avut                                                       :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       A2EC1CB2-2321-4DA6-9708-39B0F54ECE54
+:END:
+Translate the following word.
+**** Rumeno
+noi am avut
+**** Italiano
+noi abbiamo avuto
+**** Temp
+Passato prossmio
+*** voi ati avut                                                      :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       4FFDD343-215A-4716-ACF5-CDF2C1909333
+:END:
+Translate the following word.
+**** Rumeno
+voi ati avut
+**** Italiano
+voi avete avuto
+**** Temp
+Passato prossimo
+*** ei au avut                                                        :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       C855166C-ED0B-430C-A916-E27D197722A9
+:END:
+Translate the following word.
+**** Rumeno
+ei au avut
+**** Italiano
+loro hanno avuto
+**** Temp
+Passato prossimo
+*** eu aveam                                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       9860521C-37B0-4D96-B59D-E50CAC7E4316
+:END:
+Translate the following word.
+**** Rumeno
+eu aveam
+**** Italiano
+io avevo
+**** Temp
+Imperfetto
+*** tu aveai                                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       6316B0E5-BC8F-4EE2-9A94-DEC13BC8C952
+:END:
+Translate the following word.
+**** Rumeno
+tu aveai
+**** Italiano
+tu avevi
+**** Temp
+Imperfetto
+*** ea/el aveau                                                       :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       BC2ED02B-CDCB-4451-AF41-A137EDED2C07
+:END:
+Translate the following word.
+**** Rumeno
+ea/el aveau
+**** Italiano
+lei/lui aveva
+**** Temp
+Imperfetto
+*** noi aveam                                                         :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       7797387C-F302-40B6-BB87-1804AA05A715
+:END:
+Translate the following word.
+**** Rumeno
+noi aveam
+**** Italiano
+noi avevamo
+**** Temp
+Imperfetto
+*** voi aveati                                                        :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       E7869195-9E8E-430B-BA94-F1A26583B06A
+:END:
+Translate the following word.
+**** Rumeno
+voi aveati
+**** Italiano
+voi avevate
+**** Temp
+Imperfetto
+*** ei aveau                                                          :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       F3769693-3564-4FD1-B7B1-4CC2938B48E3
+:END:
+Translate the following word.
+**** Rumeno
+ei aveau
+**** Italiano
+loro avevano
+**** Temp
+Imperfetto
