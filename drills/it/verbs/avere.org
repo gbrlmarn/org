@@ -5,7 +5,7 @@
 :DRILL_INSTRUCTIONS: Translate the following word.
 :END:
 |--------------+-------------------+------------------|
-| Rumeno       | Italiano          | Temp             |
+| Rumeno       | Italiano          | Tempo            |
 |--------------+-------------------+------------------|
 | eu am        | io ho             | Presente         |
 | tu ai        | tu hai            | Presente         |

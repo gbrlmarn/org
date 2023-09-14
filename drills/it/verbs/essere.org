@@ -1,0 +1,326 @@
+* Esere
+:PROPERTIES:
+:DRILL_HEADING: Guess
+:DRILL_CARD_TYPE: twosided
+:DRILL_INSTRUCTIONS: Translate the following word.
+:END:
+|---------------+-----------------+------------------|
+| Rumeno        | Italiano        | Temp             |
+|---------------+-----------------+------------------|
+| eu sunt       | io sono         | Presente         |
+| tu esti       | tu sei          | Presente         |
+| ea/el este    | lei/lui è       | Presente         |
+| noi suntem    | noi siamo       | Presente         |
+| voi sunteti   | voi siete       | Presente         |
+| ei sunt       | loro sono       | Presente         |
+|---------------+-----------------+------------------|
+| eu am fost    | io sono stato   | Passato prossimo |
+| tu ai fost    | tu sei stato    | Passato prossimo |
+| el a fost     | lui è stato     | Passato prossimo |
+| ea a fost     | lei è stata     | Passato prossimo |
+| noi am fost   | noi siamo stati | Passato prossimo |
+| voi ati fost  | voi siete stati | Passato prossimo |
+| ei au fost    | loro sono stati | Passato prossimo |
+| ei au fost    | loro sono state | Passato prossimo |
+|---------------+-----------------+------------------|
+| eu eram       | io ero          | Imperfetto       |
+| tu erai       | tu eri          | Imperfetto       |
+| el/ea era     | lei/lui era     | Imperfetto       |
+| noi eram      | noi eravamo     | Imperfetto       |
+| voi erati     | voi eravate     | Imperfetto       |
+| ei erau       | loro erano      | Imperfetto       |
+|---------------+-----------------+------------------|
+| eu o sa fiu   | io sarò         | Futuro semplice  |
+| tu o sa fi    | tu sarai        | Futuro semplice  |
+| el o sa fie   | lei/lui sarà    | Futuro semplice  |
+| noi o sa fim  | noi saremo      | Futuro semplice  |
+| voi o sa fiti | voi sarete      | Futuro semplice  |
+| ei o sa fie   | loro saranno    | Futuro semplice  |
+|---------------+-----------------+------------------|
+** Cards                                                           :noexport:
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+eu sunt
+**** Italiano
+io sono
+**** Temp
+Presente
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+tu esti
+**** Italiano
+tu sei
+**** Temp
+Presente
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+ea/el este
+**** Italiano
+lei/lui è
+**** Temp
+Presente
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+noi suntem
+**** Italiano
+noi siamo
+**** Temp
+Presente
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+voi sunteti
+**** Italiano
+voi siete
+**** Temp
+Presente
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+ei sunt
+**** Italiano
+loro sono
+**** Temp
+Presente
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+eu am fost
+**** Italiano
+io sono stato
+**** Temp
+Passato prossimo
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+tu ai fost
+**** Italiano
+tu sei stato
+**** Temp
+Passato prossimo
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+el a fost
+**** Italiano
+lui è stato
+**** Temp
+Passato prossimo
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+ea a fost
+**** Italiano
+lei è stata
+**** Temp
+Passato prossimo
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+noi am fost
+**** Italiano
+noi siamo stati
+**** Temp
+Passato prossimo
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+voi ati fost
+**** Italiano
+voi siete stati
+**** Temp
+Passato prossimo
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+ei au fost
+**** Italiano
+loro sono stati
+**** Temp
+Passato prossimo
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+ei au fost
+**** Italiano
+loro sono state
+**** Temp
+Passato prossimo
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+eu eram
+**** Italiano
+io ero
+**** Temp
+Imperfetto
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+tu erai
+**** Italiano
+tu eri
+**** Temp
+Imperfetto
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+el/ea era
+**** Italiano
+lei/lui era
+**** Temp
+Imperfetto
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+noi eram
+**** Italiano
+noi eravamo
+**** Temp
+Imperfetto
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+voi erati
+**** Italiano
+voi eravate
+**** Temp
+Imperfetto
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+ei erau
+**** Italiano
+loro erano
+**** Temp
+Imperfetto
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+eu o sa fiu
+**** Italiano
+io sarò
+**** Temp
+Futuro semplice
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+tu o sa fi
+**** Italiano
+tu sarai
+**** Temp
+Futuro semplice
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+el o sa fie
+**** Italiano
+lei/lui sarà
+**** Temp
+Futuro semplice
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+noi o sa fim
+**** Italiano
+noi saremo
+**** Temp
+Futuro semplice
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+voi o sa fiti
+**** Italiano
+voi sarete
+**** Temp
+Futuro semplice
+*** Guess                                                             :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:END:
+Translate the following word.
+**** Rumeno
+ei o sa fie
+**** Italiano
+loro saranno
+**** Temp
+Futuro semplice
