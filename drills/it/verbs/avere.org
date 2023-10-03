@@ -4,406 +4,636 @@
 :DRILL_CARD_TYPE: twosided
 :DRILL_INSTRUCTIONS: Translate the following word.
 :END:
-|--------------+-------------------+------------------|
-| Rumeno       | Italiano          | Tempo            |
-|--------------+-------------------+------------------|
-| eu am        | io ho             | Presente         |
-| tu ai        | tu hai            | Presente         |
-| ea/el au     | lei/lui ha        | Presente         |
-| noi avem     | noi abbiamo       | Presente         |
-| voi aveti    | voi avete         | Presente         |
-| ei au        | loro hanno        | Presente         |
-|--------------+-------------------+------------------|
-| eu am avut   | io ho avuto       | Passato prossimo |
-| tu ai avut   | tu hai avuto      | Passato prossimo |
-| ea/el a avut | lei/lui ha avuto  | Passato prossimo |
-| noi am avut  | noi abbiamo avuto | Passato prossmio |
-| voi ati avut | voi avete avuto   | Passato prossimo |
-| ei au avut   | loro hanno avuto  | Passato prossimo |
-|--------------+-------------------+------------------|
-| eu aveam     | io avevo          | Imperfetto       |
-| tu aveai     | tu avevi          | Imperfetto       |
-| ea/el avea   | lei/lui aveva     | Imperfetto       |
-| noi aveam    | noi avevamo       | Imperfetto       |
-| voi aveati   | voi avevate       | Imperfetto       |
-| ei aveau     | loro avevano      | Imperfetto       |
-|--------------+-------------------+------------------|
+|---------------+-------------------+------------------|
+| Rumeno        | Italiano          | Tempo            |
+|---------------+-------------------+------------------|
+| eu am         | io ho             | Presente         |
+| tu ai         | tu hai            | Presente         |
+| ea/el au      | lei/lui ha        | Presente         |
+| noi avem      | noi abbiamo       | Presente         |
+| voi aveti     | voi avete         | Presente         |
+| ei au         | loro hanno        | Presente         |
+|---------------+-------------------+------------------|
+| eu am avut    | io ho avuto       | Passato prossimo |
+| tu ai avut    | tu hai avuto      | Passato prossimo |
+| ea/el a avut  | lei/lui ha avuto  | Passato prossimo |
+| noi am avut   | noi abbiamo avuto | Passato prossmio |
+| voi ati avut  | voi avete avuto   | Passato prossimo |
+| ei au avut    | loro hanno avuto  | Passato prossimo |
+|---------------+-------------------+------------------|
+| eu aveam      | io avevo          | Imperfetto       |
+| tu aveai      | tu avevi          | Imperfetto       |
+| ea/el avea    | lei/lui aveva     | Imperfetto       |
+| noi aveam     | noi avevamo       | Imperfetto       |
+| voi aveati    | voi avevate       | Imperfetto       |
+| ei aveau      | loro avevano      | Imperfetto       |
+|---------------+-------------------+------------------|
+| eu o sa am    | io avrò           | Futuro semplice  |
+| tu o sa ai    | tu avrai          | Futuro semplice  |
+| ea/el va avea | lei/lui avrà      | Futuro semplice  |
+| noi vom avea  | noi avremo        | Futuro semplice  |
+| voi veti avea | voi avrete        | Futuro semplice  |
+| ei vor avea   | loro avranno      | Futuro semplice  |
+|---------------+-------------------+------------------|
+
 ** Cards                                                           :noexport:
-*** eu am                                                             :drill:
-SCHEDULED: <2023-09-18 Mon>
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
-:ID:       BD58011D-575C-4165-99D4-B6F4E524BA03
-:DRILL_LAST_INTERVAL: 4.14
+:ID:       D7F9B916-FE20-4453-94CD-AD7CFC312B26
+:DRILL_LAST_INTERVAL: 4.224
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
 :DRILL_EASE: 2.6
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
+
 **** Rumeno
 eu am
+
 **** Italiano
 io ho
-**** Temp
+
+**** Tempo
 Presente
-*** tu ai                                                             :drill:
-SCHEDULED: <2023-09-18 Mon>
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
-:ID:       D5886BD5-F053-42AA-8996-6442A9B0BB42
-:DRILL_LAST_INTERVAL: 4.14
+:ID:       4D31720F-9324-4782-8BD7-A54D328F6813
+:DRILL_LAST_INTERVAL: 4.224
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
 :DRILL_EASE: 2.6
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
+
 **** Rumeno
 tu ai
+
 **** Italiano
 tu hai
-**** Temp
+
+**** Tempo
 Presente
-*** ea/el au                                                          :drill:
-SCHEDULED: <2023-09-18 Mon>
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
-:ID:       361E9F84-0719-4218-B327-33E63C7BE04B
-:DRILL_LAST_INTERVAL: 4.14
+:ID:       16D17DFB-2C58-4347-BB78-9FB5A400DCAC
+:DRILL_LAST_INTERVAL: 3.776
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
+
 **** Rumeno
 ea/el au
+
 **** Italiano
 lei/lui ha
-**** Temp
+
+**** Tempo
 Presente
-*** noi avem                                                          :drill:
-SCHEDULED: <2023-09-18 Mon>
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
-:ID:       8132E57D-349B-4C69-854C-8C83A832942F
-:DRILL_LAST_INTERVAL: 4.14
+:ID:       C6DFF5EE-4EAC-4471-BF77-A2BC435B9E92
+:DRILL_LAST_INTERVAL: 4.224
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
 :DRILL_EASE: 2.6
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
+
 **** Rumeno
 noi avem
+
 **** Italiano
 noi abbiamo
-**** Temp
+
+**** Tempo
 Presente
-*** voi aveti                                                         :drill:
-SCHEDULED: <2023-09-18 Mon>
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
-:ID:       FAFD79F4-8942-464B-AF40-D276597720FE
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 22:%]
-:END:
-Translate the following word.
-**** Rumeno
-voi aveti
-**** Italiano
-voi avete
-**** Temp
-Presente
-*** ei au                                                             :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       8017D954-3B83-4AFF-B4B8-E26773EDEBB2
-:DRILL_LAST_INTERVAL: 4.285
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 3
-:DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 4.0
-:DRILL_EASE: 2.7
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 22:%]
-:END:
-Translate the following word.
-**** Rumeno
-ei au
-**** Italiano
-loro hanno
-**** Temp
-Presente
-*** eu am avut                                                        :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       1E2F52F9-1286-4D05-8548-5407E661270F
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
-:END:
-Translate the following word.
-**** Rumeno
-eu am avut
-**** Italiano
-io ho avuto
-**** Temp
-Passato prossimo
-*** tu ai avut                                                        :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       B14BD421-B991-40A8-9E12-8F334AF4E994
-:DRILL_LAST_INTERVAL: 3.86
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 22:%]
-:END:
-Translate the following word.
-**** Rumeno
-tu ai avut
-**** Italiano
-tu hai avuto
-**** Temp
-Passato prossimo
-*** ea/el a avut                                                      :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       D550DCE4-511D-47FE-AD0F-D07AB7B84879
-:DRILL_LAST_INTERVAL: 3.86
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 3.0
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
-:END:
-Translate the following word.
-**** Rumeno
-ea/el au avut
-**** Italiano
-lei/lui ha avuto
-**** Temp
-Passato prossimo
-*** noi am avut                                                       :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       A2EC1CB2-2321-4DA6-9708-39B0F54ECE54
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
-:END:
-Translate the following word.
-**** Rumeno
-noi am avut
-**** Italiano
-noi abbiamo avuto
-**** Temp
-Passato prossmio
-*** voi ati avut                                                      :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       4FFDD343-215A-4716-ACF5-CDF2C1909333
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 22:%]
-:END:
-Translate the following word.
-**** Rumeno
-voi ati avut
-**** Italiano
-voi avete avuto
-**** Temp
-Passato prossimo
-*** ei au avut                                                        :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       C855166C-ED0B-430C-A916-E27D197722A9
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 22:%]
-:END:
-Translate the following word.
-**** Rumeno
-ei au avut
-**** Italiano
-loro hanno avuto
-**** Temp
-Passato prossimo
-*** eu aveam                                                          :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       9860521C-37B0-4D96-B59D-E50CAC7E4316
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
-:END:
-Translate the following word.
-**** Rumeno
-eu aveam
-**** Italiano
-io avevo
-**** Temp
-Imperfetto
-*** tu aveai                                                          :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       6316B0E5-BC8F-4EE2-9A94-DEC13BC8C952
-:DRILL_LAST_INTERVAL: 4.14
+:ID:       37FA6E33-7CE7-4DE3-A2E5-B8F7A1DF05F2
+:DRILL_LAST_INTERVAL: 4.224
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 1
 :DRILL_AVERAGE_QUALITY: 3.5
 :DRILL_EASE: 2.6
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
+
 **** Rumeno
-tu aveai
+voi aveti
+
 **** Italiano
-tu avevi
-**** Temp
-Imperfetto
-*** ea/el avea                                                        :drill:
-SCHEDULED: <2023-09-18 Mon>
+voi avete
+
+**** Tempo
+Presente
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
-:ID:       BC2ED02B-CDCB-4451-AF41-A137EDED2C07
-:DRILL_LAST_INTERVAL: 4.14
+:ID:       6A39353D-FEB0-4021-91E6-3722A3AE2D32
+:DRILL_LAST_INTERVAL: 4.224
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 1
 :DRILL_FAILURE_COUNT: 0
 :DRILL_AVERAGE_QUALITY: 5.0
 :DRILL_EASE: 2.6
 :DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
+
 **** Rumeno
-ea/el aveau
+ei au
+
 **** Italiano
-lei/lui aveva
-**** Temp
-Imperfetto
-*** noi aveam                                                         :drill:
-SCHEDULED: <2023-09-18 Mon>
+loro hanno
+
+**** Tempo
+Presente
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
-:ID:       7797387C-F302-40B6-BB87-1804AA05A715
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
-:END:
-Translate the following word.
-**** Rumeno
-noi aveam
-**** Italiano
-noi avevamo
-**** Temp
-Imperfetto
-*** voi aveati                                                        :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       E7869195-9E8E-430B-BA94-F1A26583B06A
-:DRILL_LAST_INTERVAL: 4.14
-:DRILL_REPEATS_SINCE_FAIL: 2
-:DRILL_TOTAL_REPEATS: 1
-:DRILL_FAILURE_COUNT: 0
-:DRILL_AVERAGE_QUALITY: 5.0
-:DRILL_EASE: 2.6
-:DRILL_LAST_QUALITY: 5
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
-:END:
-Translate the following word.
-**** Rumeno
-voi aveati
-**** Italiano
-voi avevate
-**** Temp
-Imperfetto
-*** ei aveau                                                          :drill:
-SCHEDULED: <2023-09-18 Mon>
-:PROPERTIES:
-:DRILL_CARD_TYPE: twosided
-:ID:       F3769693-3564-4FD1-B7B1-4CC2938B48E3
-:DRILL_LAST_INTERVAL: 3.86
+:ID:       AE567432-9CED-450B-94F9-6B40E4E41A5A
+:DRILL_LAST_INTERVAL: 4.224
 :DRILL_REPEATS_SINCE_FAIL: 2
 :DRILL_TOTAL_REPEATS: 2
 :DRILL_FAILURE_COUNT: 1
-:DRILL_AVERAGE_QUALITY: 1.5
-:DRILL_EASE: 2.36
-:DRILL_LAST_QUALITY: 3
-:DRILL_LAST_REVIEWED: [Y-09-14 Thu 23:%]
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
+
+**** Rumeno
+eu am avut
+
+**** Italiano
+io ho avuto
+
+**** Tempo
+Passato prossimo
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       4A3A9310-5FC2-4961-91B5-316DC02ADB4D
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+tu ai avut
+
+**** Italiano
+tu hai avuto
+
+**** Tempo
+Passato prossimo
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       DEED08E0-500A-4FCB-B960-AEA1C943BBA8
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+ea/el a avut
+
+**** Italiano
+lei/lui ha avuto
+
+**** Tempo
+Passato prossimo
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       59BBE4B2-B261-402F-A33E-37DB1D3C111C
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+noi am avut
+
+**** Italiano
+noi abbiamo avuto
+
+**** Tempo
+Passato prossmio
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       4D495541-A0D1-4645-8C6C-1516395BC422
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+voi ati avut
+
+**** Italiano
+voi avete avuto
+
+**** Tempo
+Passato prossimo
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       14C1E1DE-ADBA-4A86-BA4C-CDF414D356C5
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 3.5
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+ei au avut
+
+**** Italiano
+loro hanno avuto
+
+**** Tempo
+Passato prossimo
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       E2E14F3C-129D-454F-BD7C-11D6FC14F106
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+eu aveam
+
+**** Italiano
+io avevo
+
+**** Tempo
+Imperfetto
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       C656A034-A06B-4A06-AD1A-5A2F812FD87C
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+tu aveai
+
+**** Italiano
+tu avevi
+
+**** Tempo
+Imperfetto
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       9A4D72D6-8CA9-4CEF-B296-20E3CDB579DD
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+ea/el avea
+
+**** Italiano
+lei/lui aveva
+
+**** Tempo
+Imperfetto
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       9A7F757E-2D7D-4924-9DC9-51077AA57463
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+noi aveam
+
+**** Italiano
+noi avevamo
+
+**** Tempo
+Imperfetto
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       A2883F84-7ACB-4258-AB83-0E8D55A95CE3
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+voi aveati
+
+**** Italiano
+voi avevate
+
+**** Tempo
+Imperfetto
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       2DB759CB-9C44-4957-B85B-F789AD19B38B
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
 **** Rumeno
 ei aveau
+
 **** Italiano
 loro avevano
-**** Temp
+
+**** Tempo
 Imperfetto
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       5ACF598C-AF92-4347-8CDC-582C47C31765
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+eu o sa am
+
+**** Italiano
+io avrò
+
+**** Tempo
+Futuro semplice
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       6F7BF0FD-E8DC-46FD-8055-1650A3126C85
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+tu o sa ai
+
+**** Italiano
+tu avrai
+
+**** Tempo
+Futuro semplice
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       F480EF38-7022-4AF3-B3AC-167FE5708C95
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+ea/el va avea
+
+**** Italiano
+lei/lui avrà
+
+**** Tempo
+Futuro semplice
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       6B18FE6A-B9EA-462D-B646-2125AFE0CFFE
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+noi vom avea
+
+**** Italiano
+noi avremo
+
+**** Tempo
+Futuro semplice
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       B0A430DE-188B-469C-801E-5CAF1F7EC0AC
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+voi veti avea
+
+**** Italiano
+voi avrete
+
+**** Tempo
+Futuro semplice
+
+*** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
+:PROPERTIES:
+:DRILL_CARD_TYPE: twosided
+:ID:       123BEEFD-E8F1-4444-AB38-EE1350F719B7
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
+:END:
+Translate the following word.
+
+**** Rumeno
+ei vor avea
+
+**** Italiano
+loro avranno
+
+**** Tempo
+Futuro semplice

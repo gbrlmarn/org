@@ -1,4 +1,4 @@
-* Esere
+* Essere
 :PROPERTIES:
 :DRILL_HEADING: Guess
 :DRILL_CARD_TYPE: twosided
@@ -39,8 +39,18 @@
 |---------------+-----------------+------------------|
 ** Cards                                                           :noexport:
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       B3DD1305-8716-49BD-95AE-AE83A31843D6
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -50,8 +60,18 @@ io sono
 **** Temp
 Presente
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-12 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       00ACA50E-C29B-4C92-9F10-D853853B23B2
+:DRILL_LAST_INTERVAL: 11.3684
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -61,8 +81,18 @@ tu sei
 **** Temp
 Presente
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       C8070F84-1AD4-40FB-9D38-512D21780F17
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -72,8 +102,18 @@ lei/lui è
 **** Temp
 Presente
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       FD0BFDA6-A702-42F4-B12B-B138F2001C02
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -83,8 +123,18 @@ noi siamo
 **** Temp
 Presente
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       046759CF-93FE-4084-85C6-FA2C54DDF310
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -94,8 +144,18 @@ voi siete
 **** Temp
 Presente
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       AAF48F09-1E4A-410E-A7C6-E0AB43BDBE75
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -105,8 +165,18 @@ loro sono
 **** Temp
 Presente
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-12 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       E1682143-61B8-464C-B1E6-51E11D0A7F9C
+:DRILL_LAST_INTERVAL: 11.3684
+:DRILL_REPEATS_SINCE_FAIL: 3
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.7
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -116,8 +186,18 @@ io sono stato
 **** Temp
 Passato prossimo
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       B30C0F03-7DD9-4799-82F7-5D0877B608FD
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -127,8 +207,18 @@ tu sei stato
 **** Temp
 Passato prossimo
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       34641173-E2EC-4F7C-BBF6-9F84E66098C2
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -138,8 +228,18 @@ lui è stato
 **** Temp
 Passato prossimo
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       29C146CE-C683-43B9-9B7B-681CA756FD99
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -149,8 +249,18 @@ lei è stata
 **** Temp
 Passato prossimo
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       5D6EE589-185C-4FAB-820D-31FD8DDF8218
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -160,8 +270,18 @@ noi siamo stati
 **** Temp
 Passato prossimo
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       842BFDAD-A6BC-4F14-962B-3905D9DFEDBC
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -171,8 +291,18 @@ voi siete stati
 **** Temp
 Passato prossimo
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       491F5919-0A86-4690-BEA4-3A4351D2B949
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -182,8 +312,18 @@ loro sono stati
 **** Temp
 Passato prossimo
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       04EB8B01-6729-48BE-9DA3-CEE3F0734604
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -193,8 +333,18 @@ loro sono state
 **** Temp
 Passato prossimo
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       A3857B88-4762-47FB-962E-ECE8C94BC061
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -204,8 +354,18 @@ io ero
 **** Temp
 Imperfetto
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       D42A4D6E-D0B9-419B-A70C-E164A2953F61
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -215,8 +375,18 @@ tu eri
 **** Temp
 Imperfetto
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       DBF7356D-4A1E-4421-BA98-B95399756F1B
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -226,8 +396,18 @@ lei/lui era
 **** Temp
 Imperfetto
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       9A384FC6-6F64-4AE5-9B7C-CCAF9B42CD47
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -237,8 +417,18 @@ noi eravamo
 **** Temp
 Imperfetto
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       DF8BBAD3-D422-482C-986F-64C10FFC3E8B
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -248,8 +438,18 @@ voi eravate
 **** Temp
 Imperfetto
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       EA3F59E0-73A5-4ABA-BA07-29AF1BECAB1E
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -259,8 +459,18 @@ loro erano
 **** Temp
 Imperfetto
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       72C09DC2-5788-4603-9B28-DFE8B50DC2DB
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 4
+:DRILL_FAILURE_COUNT: 3
+:DRILL_AVERAGE_QUALITY: 2.75
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -270,8 +480,18 @@ io sarò
 **** Temp
 Futuro semplice
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       FDB07CC1-C20E-4115-BE69-FD39A054AA13
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 2
+:DRILL_FAILURE_COUNT: 1
+:DRILL_AVERAGE_QUALITY: 2.5
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -281,8 +501,18 @@ tu sarai
 **** Temp
 Futuro semplice
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       EB5DA527-B7BB-4E8D-87A0-C47982047D5C
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -292,8 +522,18 @@ lei/lui sarà
 **** Temp
 Futuro semplice
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       4AC8D230-FC55-4B09-8572-728001D928C7
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -303,8 +543,18 @@ noi saremo
 **** Temp
 Futuro semplice
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       71E1324B-EA4F-44B6-A2DD-20D1687299D2
+:DRILL_LAST_INTERVAL: 3.776
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.36
+:DRILL_LAST_QUALITY: 3
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
@@ -314,8 +564,18 @@ voi sarete
 **** Temp
 Futuro semplice
 *** Guess                                                             :drill:
+SCHEDULED: <2023-10-05 Thu>
 :PROPERTIES:
 :DRILL_CARD_TYPE: twosided
+:ID:       45C0A5B9-13B1-4E7C-A9EF-EEB57248A222
+:DRILL_LAST_INTERVAL: 4.224
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 3
+:DRILL_FAILURE_COUNT: 2
+:DRILL_AVERAGE_QUALITY: 3.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-10-01 Sun 14:%]
 :END:
 Translate the following word.
 **** Rumeno
